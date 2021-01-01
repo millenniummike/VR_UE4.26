@@ -1,0 +1,3 @@
+Enhance betpanel
+	different icons for sports category
+	multi bets in 1 competition (ie golf)
