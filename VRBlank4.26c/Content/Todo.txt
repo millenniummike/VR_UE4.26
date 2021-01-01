@@ -1,7 +1,10 @@
 Enhance betpanel
-	different icons for sports category
+	x different icons for sports category
+		add all sports textures as materials
 	multi bets in 1 competition (ie golf)
 Grid spawner
 	rotate in direction of parent object
+FX
+	spinning decal
 GIS
 	bring in automatically
